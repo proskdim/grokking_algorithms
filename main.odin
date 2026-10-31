@@ -3,7 +3,6 @@ package main
 import "core:fmt"
 import bs "./binary_search"
 
-
 main :: proc() {
 	nums := []int{1, 3, 5, 7, 9};
 	
